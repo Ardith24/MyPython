@@ -1,0 +1,5 @@
+x = input("Masukan Angka pertama: ")
+y = input("Masukan Angka kedua: ")
+num1 = int(x)
+num2 = int(y)
+print(num1,"+",num2,"=",num1+num2)
